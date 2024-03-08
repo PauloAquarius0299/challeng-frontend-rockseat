@@ -45,7 +45,7 @@ Além dos requisitos levantados acima, iremos olhar para os seguintes critérios
 ## 🖥️ Instalation 
 clone
 ```
-git clone https:
+https://github.com/PauloAquarius0299/challeng-frontend-rockseat.git
 ```
 Go to project folder
 ```
