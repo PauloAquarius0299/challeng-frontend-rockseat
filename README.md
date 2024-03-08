@@ -45,7 +45,7 @@ Além dos requisitos levantados acima, iremos olhar para os seguintes critérios
 ## 🖥️ Instalation 
 clone
 ```
-git clone https://github.com/Fernanda-Kipper/challenge-frontend.git
+git clone https:
 ```
 Go to project folder
 ```
