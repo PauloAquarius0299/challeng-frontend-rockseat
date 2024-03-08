@@ -1,18 +1,4 @@
-![image](https://user-images.githubusercontent.com/40845824/121069742-3accdb00-c7a4-11eb-87d0-3dc47e433762.png)
 
-
-# 🚀 Front end challenge
-
-Bem-vindo(a). Este é o desafio Front end!
-
-O objetivo deste desafio é avaliar suas habilidades de programação.
-Quando sua solução estiver pronta, basta responder o e-mail que recebeu com o link do seu repo aqui no Github!
-Em seguida, enviaremos o feedback e as instruções dos próximos passos!
-
-Caso tenha alguma dúvida, nós estamos disponíveis no email *recrutamento@rocketseat.com.br*
-Bom desafio!
-
-> ⚠️ **É importante que o seu repo esteja público, caso contrário não iremos conseguir avaliar sua resposta**
 
 # 🧠 Contexto
 
@@ -56,7 +42,36 @@ Além dos requisitos levantados acima, iremos olhar para os seguintes critérios
 - Utilização de cache do Next.js
 
 ---
+## 🖥️ Instalation 
+clone
+```
+git clone https://github.com/Fernanda-Kipper/challenge-frontend.git
+```
+Go to project folder
+```
+cd challenge-frontend
+cd capputeeno
+```
+install 
+```
+npm install
+```
+Running Front end interface
+```
+npm run dev
+```
+### Runing the API GraphQL
+Go to api folder
+```
+cd challenge-frontend
+cd api
+```
+Install dependence
+```
+npm install
+```
+Running GraphQL
+```
+npm start
+```
 
-_O desafio acima foi cuidadosamente construído para propósitos de avaliação apenas. Já possuimos uma funcionalidade similar na nossa plataforma._
-
-Made with 💜 at Rocketseat
